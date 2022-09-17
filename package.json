@@ -1,0 +1,15 @@
+{
+  "name": "expo-1",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "ListaDoble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "simple": "node ListaSimple/index.js", 
+    "doble": "node ListaDoble/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
